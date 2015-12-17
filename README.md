@@ -1,2 +1,2 @@
 # computerparts
-Norwa;lk Computer Science Program
+Norwalk Computer Science Program
